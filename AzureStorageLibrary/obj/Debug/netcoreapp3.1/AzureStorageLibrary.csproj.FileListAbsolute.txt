@@ -1,0 +1,10 @@
+C:\Users\lacorrea\Documents\htdocs\NetCore\AzureStorageLibrary\bin\Debug\netcoreapp3.1\AzureStorageLibrary.deps.json
+C:\Users\lacorrea\Documents\htdocs\NetCore\AzureStorageLibrary\bin\Debug\netcoreapp3.1\AzureStorageLibrary.dll
+C:\Users\lacorrea\Documents\htdocs\NetCore\AzureStorageLibrary\bin\Debug\netcoreapp3.1\AzureStorageLibrary.pdb
+C:\Users\lacorrea\Documents\htdocs\NetCore\AzureStorageLibrary\obj\Debug\netcoreapp3.1\AzureStorageLibrary.csproj.AssemblyReference.cache
+C:\Users\lacorrea\Documents\htdocs\NetCore\AzureStorageLibrary\obj\Debug\netcoreapp3.1\AzureStorageLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacorrea\Documents\htdocs\NetCore\AzureStorageLibrary\obj\Debug\netcoreapp3.1\AzureStorageLibrary.AssemblyInfoInputs.cache
+C:\Users\lacorrea\Documents\htdocs\NetCore\AzureStorageLibrary\obj\Debug\netcoreapp3.1\AzureStorageLibrary.AssemblyInfo.cs
+C:\Users\lacorrea\Documents\htdocs\NetCore\AzureStorageLibrary\obj\Debug\netcoreapp3.1\AzureStorageLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lacorrea\Documents\htdocs\NetCore\AzureStorageLibrary\obj\Debug\netcoreapp3.1\AzureStorageLibrary.dll
+C:\Users\lacorrea\Documents\htdocs\NetCore\AzureStorageLibrary\obj\Debug\netcoreapp3.1\AzureStorageLibrary.pdb
