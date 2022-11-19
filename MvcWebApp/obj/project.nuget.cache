@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WIobCIjhIoeCplj44XfXv7WtbXiayhTLKf8DLtDY6tYEcWDGJ+5QWKEn0Pblns3ACkGj4/4xv+2TP5hu/TLfSg==",
+  "dgSpecHash": "bYEAiXmQFy1vBmS/Lfftp9PGnmF1vjvoQZw7piIn2MK36TUkY22mEH3NTc+2tmBaOfaFYng+JAu2xvfWuAlNyg==",
   "success": true,
   "projectFilePath": "C:\\Users\\lacorrea\\Documents\\htdocs\\NetCore\\MvcWebApp\\MvcWebApp.csproj",
   "expectedPackageFiles": [
@@ -108,8 +108,7 @@
     "C:\\Users\\lacorrea\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\lacorrea\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\lacorrea\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\lacorrea\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\lacorrea\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+    "C:\\Users\\lacorrea\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

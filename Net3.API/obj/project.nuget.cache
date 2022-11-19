@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WXJrUOqCGojIfDC2QiiGstKiVxJ8xW9hArtLqbVfqB2EaRg08PLH96L4nyYoHET2miWejWS/OtRYLMj60MbtUg==",
+  "dgSpecHash": "7Fxs1pDVgUFeCXi1j0ylibomAWcpX2vundf0rNV75GqH70fHw6Ym7Ys04etr9+NdFWWQcc4KmsI9VenYyw3Dng==",
   "success": true,
   "projectFilePath": "C:\\Users\\lacorrea\\Documents\\htdocs\\NetCore\\Net3.API\\Net3.API.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\lacorrea\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
